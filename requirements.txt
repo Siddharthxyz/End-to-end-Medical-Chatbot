@@ -4,10 +4,12 @@ flask
 pypdf
 python-dotenv
 requests
+
 langchain-pinecone
 langchain-community
 langchain-openai
 langchain-experimental
+
 google-generativeai
 pinecone-client[grpc]
 -e .

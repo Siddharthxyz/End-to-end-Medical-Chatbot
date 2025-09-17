@@ -12,6 +12,8 @@ list_of_files = [
     "setup.py",
     "app.py",
     "research/trials.ipynb",
+    "data/.gitkeep"
+    "store_index.py",
 ]
 
 for filepath in list_of_files:
